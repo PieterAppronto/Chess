@@ -47,4 +47,5 @@ Licensed under the Apache license.
 
 # Version history
 
+- Version 1.0.1 Updated languages to English
 - Version 1.0.0 Initial release
